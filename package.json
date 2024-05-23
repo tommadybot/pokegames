@@ -4,7 +4,7 @@
   "version": "1.0.4",
   "type": "module",
   "repository": {
-    "url": "https://github.com/radespratama/pokegames"
+    "url": "https://github.com/tommadybot/pokegames"
   },
   "scripts": {
     "dev": "vite",
